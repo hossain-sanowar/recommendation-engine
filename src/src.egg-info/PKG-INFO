@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: src
+Version: 0.0.1
+Summary: A small package for Books Recommender Sysytem
+Home-page: https://github.com/hossain-sanowar/book-recommendation
+Author: hossain-sanowar
+Author-email: md.sanowar21@gmail.com
+Description-Content-Type: text/markdown
+
+book-recommendation
