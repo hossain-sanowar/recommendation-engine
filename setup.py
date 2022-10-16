@@ -19,6 +19,8 @@ setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     url=f"https://github.com/{AUTHOR_USER_NAME}/{REPO_NAME}",
-    author_email="md.sanowar21@gmail.com"
-
+    author_email="md.sanowar21@gmail.com",
+    packages=[SRC_REPO],
+    python_requires=">=3.9",
+    install_requires=LIST_OF_REQUIREMENTS
 )
