@@ -9,8 +9,12 @@ A recommendation system's primary objective is to locate material that would be 
 
 This is a cloud-based online application that may propose different types of comparable books depending on a user's preferences. After evaluating the project, the example demo is shown below.
 
-# Example Demo:
+# Cloud Platform:
+
 [Heroku App](https://book-recommendation3.herokuapp.com/)
+
+# Example Demo:
+
 [![name](Book_1.png)](Book_1.png)
 [![name](Book_2.png)](Book_2.png)
 [![name](Book_3.png)](Book_3.png)
