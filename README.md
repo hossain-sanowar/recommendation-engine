@@ -45,7 +45,7 @@ touch README.md
 ```
 touch requirements.txt
 ```
-12. Create src folder
+12. Create src folder; this is local folder and any kind of helper function
 ```
 mkdir src
 ```
