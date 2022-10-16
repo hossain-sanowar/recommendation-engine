@@ -14,7 +14,9 @@ This is a cloud-based online application that may propose different types of com
 [Heroku App](https://book-recommendation3.herokuapp.com/)
 
 # Example Demo:
-
+[![name](Movie_1.png)](Movie_1.png)
+[![name](Movie_2.png)](Movie_2.png)
+[![name](Movie_3.png)](Movie_3.png)
 [![name](Book_1.png)](Book_1.png)
 [![name](Book_2.png)](Book_2.png)
 [![name](Book_3.png)](Book_3.png)
