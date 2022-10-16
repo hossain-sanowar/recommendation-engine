@@ -11,7 +11,8 @@ This is a cloud-based online application that may propose different types of com
 
 # Cloud Platform:
 
-[Heroku App](https://book-recommendation3.herokuapp.com/)
+[Movie_Recommendation App](https://movie-recommendation-system3.herokuapp.com/)
+[Book_Recommendation App](https://book-recommendation3.herokuapp.com/)
 
 # Example Demo:
 [![name](Movie_1.png)](Movie_1.png)
