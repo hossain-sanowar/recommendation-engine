@@ -7,11 +7,11 @@ A recommendation system's primary objective is to locate material that would be 
 
 # Project Objective:
 
-This is a cloud-based online application that may propose different types of comparable books depending on a user's preferences. After evaluating the project, the example demo is shown below.
+This is a cloud-based online application that may propose different types of comparable books and movies depending on a user's preferences. After evaluating the project, the example demo is shown below.
 
 # Cloud Platform:
 
-[Movie_Recommendation App](https://movie-recommendation-system3.herokuapp.com/)
+[Movie_Recommendation App](https://movie-recommendation-system3.herokuapp.com/) <br>
 [Book_Recommendation App](https://book-recommendation3.herokuapp.com/)
 
 # Example Demo:
